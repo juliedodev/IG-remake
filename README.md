@@ -1,16 +1,10 @@
-## Installation
+This is a full stack application with authentication that allows users to view a feed of posts, post their own images, and like/dislike on other users posts.
 
-1. Clone repo
-2. run `npm install`
+How It's Made: Languages used — EJS, CSS, JavaScript, Node.js, Express, MongoDB
 
-## Usage
+Optimizations:
 
-1. run `node server.js`
-2. Navigate to `localhost:8080`
-
-## Credit
-
-Modified from Scotch.io's auth tutorial
+Lesson Learned: I learned how to used stored data in MongoDB and using EJS to generate HTML markup.
 
 Button CSS: https://fdossena.com/?p=html5cool/buttons/i.frag
 https://thenounproject.com/search/?q=cat&i=1160970
